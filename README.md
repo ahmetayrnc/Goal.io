@@ -2,7 +2,7 @@
 Goal.io, a 3D io game about scoring goals
 Try to score more than your opponents, but be carefull a player is eliminated each 20 seconds.
 
-###### How to play
+##### How to play
 In Goal.io, you have 2 minutes to score as much as you can by kicking the balls to the goalposts. Every 20 seconds the player with the lowest score is eliminated, a goalpost is closed and a ball is removed from the playing area.
 - After 2 minutes if you are not eliminated you win the game.
 - If you get eliminated the game ends and you lose.
@@ -19,11 +19,11 @@ Trailer for the game:
 
 ## Gallery
 <p align="middle">
-  
+  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="100" width="100">
 </p>
 
 <p float="left" align="middle">
-  
+  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/MainMenu.png" height="555" width="270">
 </p>
 
 <p float="left" align="middle">
