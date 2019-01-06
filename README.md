@@ -19,13 +19,17 @@ Trailer for the game:
 
 ## Gallery
 <p align="middle">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="100" width="100">
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/logo.png" height="100" width="100">
 </p>
 
 <p float="left" align="middle">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/MainMenu.png" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/ss1.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/ss2.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/ss3.jpg" height="555" width="270">
 </p>
 
 <p float="left" align="middle">
- 
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/ss4.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/ss5.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/Goal.io/blob/master/images/ss6.jpg" height="555" width="270">
 </p>
