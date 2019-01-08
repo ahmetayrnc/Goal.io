@@ -1,6 +1,6 @@
 # Gaol.io
 Goal.io, is a 3D io game about scoring goals. <br>
-Try to score more than your opponents, but be carefull a player is eliminated each 20 seconds.
+Try to score more than your opponents, but be carefull a player is eliminated every 20 seconds.
 
 ##### How to play
 In Goal.io, you have 2 minutes to score as much as you can by kicking the balls to the goalposts. Every 20 seconds the player with the lowest score is eliminated, a goalpost is closed and a ball is removed from the playing area.
