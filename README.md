@@ -1,5 +1,5 @@
 # Gaol.io
-Goal.io, a 3D io game about scoring goals
+Goal.io, is a 3D io game about scoring goals. <br>
 Try to score more than your opponents, but be carefull a player is eliminated each 20 seconds.
 
 ##### How to play
