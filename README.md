@@ -13,9 +13,9 @@ In Goal.io, you have 2 minutes to score as much as you can by kicking the balls 
 - The game is finished for testing.
 
 ## Links
-Play Store Link:
+Play Store Link: Due to technical difficulties with my computer, the game is not currently on any stores.
 
-Trailer for the game:
+Trailer for the game: https://youtu.be/R4iBxNFW_nY
 
 ## Gallery
 <p align="middle">
